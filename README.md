@@ -123,3 +123,4 @@ https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-I
 - Before using, consider the moral implications of stealing gifts from communities you have nothing to do with.
 
 > If you like my project, please consider starring the repo :)
+> Tropix#0001
